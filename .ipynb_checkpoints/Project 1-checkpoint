@@ -1,0 +1,77 @@
+Project 1
+
+My proposal will focus on Employee Attrition data , here is the link:https://www.kaggle.com/datasets/mrsimple07/employee-attrition-data-prediction
+My recommendations for a business or client will be focusing on enhancing job satisfaction, optimizing the promotion and compensation system, and balancing work hours.
+ 
+My five Sample Descriptive Analysis Questions:
+
+1. What is the age distribution of the company's employees?
+2. Which departments and positions have higher or lower job satisfaction scores?
+3. What is the distribution of average monthly work hours among employees?
+4. What are the promotion rates in different departments and positions?
+5. How do years of service at the company affect annual salaries?
+
+My three external domain resources are:
+https://www.forbes.com/sites/forbeseq/2023/03/21/five-hidden-costs-of-employee-attrition/
+https://en.wikipedia.org/wiki/Turnover_(employment)
+https://www.cnn.com/2023/06/13/business/stressed-disengaged-workers-gallup-poll/index.html
+
+
+
+
+
+
+
+
+ChatGPT:
+抱歉，我理解错了你的数据。基于你提供的信息，这里是五个描述性分析问题以及2-3个客户建议：
+
+### 数据列
+- `EmployeeID`：员工编号
+- `Age`：年龄
+- `Gender`：性别
+- `Department`：部门
+- `JobRole`：职位
+- `YearsAtCompany`：在公司工作的年限
+- `JobSatisfaction`：工作满意度评分
+- `MonthlyWorkHours`：月均工作时长
+- `PromotionLastYear`：最近是否晋升（是/否）
+- `AnnualSalary`：年薪
+
+### 五个描述性分析问题样本
+
+1. **年龄和部门分布**：
+   - 公司员工的年龄分布情况如何？
+   - 不同部门的年龄分布有何差异？
+
+2. **工作满意度分析**：
+   - 员工的工作满意度评分分布情况如何？
+   - 哪些部门和职位的员工满意度评分较高或较低？
+
+3. **工作时长与职位分析**：
+   - 员工的月均工作时长分布情况如何？
+   - 不同职位的月均工作时长有何差异？
+
+4. **晋升与年薪关系**：
+   - 最近是否晋升对员工年薪有何影响？
+   - 不同部门和职位的晋升率有何差异？
+
+5. **工作年限与薪酬分析**：
+   - 员工在公司的工作年限对年薪有何影响？
+   - 不同工作年限的员工薪酬分布情况如何？
+
+### 基于数据的业务或客户建议
+
+1. **提升工作满意度**：
+   - **建议**：进行定期的员工满意度调查，并根据调查结果制定改进计划。特别关注满意度评分较低的部门和职位，了解其具体问题并采取措施改善。
+   - **理由**：提高员工的工作满意度可以增强员工的归属感和工作动力，从而提高工作效率和员工留存率。
+
+2. **优化晋升和薪酬体系**：
+   - **建议**：建立透明且公平的晋升和薪酬体系，根据员工的表现、工作年限和职位等级进行合理的晋升和薪酬调整。特别关注那些没有晋升机会但工作时长较长的员工，给予适当的激励。
+   - **理由**：透明且公平的晋升和薪酬体系可以激励员工努力工作，减少因不满而导致的流失，提升整体工作积极性。
+
+3. **平衡工作时长**：
+   - **建议**：监控员工的月均工作时长，防止过度加班导致员工的工作压力和不满。对于工作时长较长的部门或职位，可以采取调休、灵活工作时间等措施，帮助员工平衡工作与生活。
+   - **理由**：过长的工作时间可能导致员工疲劳和不满，适当的工作时间管理可以提高员工的工作效率和满意度。
+
+通过这些分析和建议，企业可以更好地理解员工的需求和状况，优化管理策略，提高员工的满意度和工作效率。
