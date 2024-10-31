@@ -35,7 +35,7 @@ Based on these findings, the following actions are recommended to reduce attriti
 
 ## Resources
 
-- **Dataset**: [Employee Attrition Data (Kaggle)]([https://www.kaggle.com/datasets/mrsimple07/employee-attrition-data-prediction])
+- **Dataset**: [Employee Attrition Data (Kaggle)](https://www.kaggle.com/datasets/mrsimple07/employee-attrition-data-prediction)
 - **Presentation**: [Employee Attrition Analysis Presentation](https://github.com/Charlottecool/Employee-Attrition-Analysis/blob/master/Presentation.pdf)
 - **Data Analysis Code**: [Analysis Notebook](https://github.com/Charlottecool/Employee-Attrition-Analysis/blob/master/Employee%20Attirtion%20Analysis.ipynb)
 
