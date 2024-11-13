@@ -1,4 +1,5 @@
 # Employee Attrition Analysis
+![Overall analysis dashboard](https://github.com/user-attachments/assets/55b885a5-28ee-44fe-8c09-20d6d2c62760)
 
 This project analyzes employee attrition data to uncover insights and provide actionable recommendations for improving retention rates within a company. Using data from a synthetic dataset, this analysis explores key factors that influence employee attrition, including age, department, job satisfaction, salary, and tenure.
 
